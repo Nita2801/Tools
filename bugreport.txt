@@ -1,0 +1,34 @@
+Bug Report Structure
+
+		ID: 
+    
+		Title: 
+    
+		Project: 
+    
+		Product Build: 
+    
+		Severity: 
+    
+		Priority : 
+    
+		Status : 
+    
+		Reporter : 
+    
+                Assigned to : 
+    
+		Reproducibility: 
+    
+		Environment :
+    
+		Preconditions : 
+		
+		Description :
+
+		Step to reproduce :  
+
+			Actual result : 
+			Expected result : 
+      
+		 Attachment
